@@ -1,0 +1,26 @@
+{
+  "name": "lab04-proyectotddloginunsch",
+  "version": "1.0.0",
+  "description": "Aplicar la metodología **TDD (Test Driven Development)** utilizando **Jest**, desarrollando las pruebas unitarias para la funcionalidad de inicio de sesión del Portal Académico de la UNSCH a partir de una Historia de Usuario y sus Criterios de Aceptación.",
+  "main": "index.js",
+  "scripts": {
+         "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlizbethjaico/LAB04-ProyectoTDDLoginUNSCH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devlizbethjaico/LAB04-ProyectoTDDLoginUNSCH/issues"
+  },
+  "homepage": "https://github.com/devlizbethjaico/LAB04-ProyectoTDDLoginUNSCH#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
